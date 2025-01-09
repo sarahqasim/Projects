@@ -1,0 +1,5 @@
+Project description. The management is looking to use this data on customers' shopping behaviours to understand purchase patterns, analyse customer segments, and create a targeted marketing strategy for the upcoming season.
+To better analyse this dataset in a clear way a Power BI dashboard is created that finds correlation between factors and identifies trends.
+I created DAX visualisation called "Age categories" which distributed the numerical values in the age column to a more readable categorical column.
+Created pie charts and bar charts to visualise distributions.
+Created a map to show locations by purchases.
